@@ -7,3 +7,5 @@ class Person
     @hygiene = 8
   end
 end
+
+Sophie = Person.new("Sophie")
