@@ -8,4 +8,3 @@ class Person
   end
 end
 
-Sophie = Person.new("Sophie")
